@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "github" {
-  token = "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"
+  token = "token personal"
 }
 
 resource "github_repository" "lab-iot" {
